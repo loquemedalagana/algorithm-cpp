@@ -1,0 +1,8 @@
+﻿  boj_14172.cpp
+c:\users\amaya\source\repos\project1\boj_14172\boj_14172.cpp(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  10 of 18 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  boj_14172.vcxproj -> C:\Users\amaya\source\repos\Project1\Release\boj_14172.exe
